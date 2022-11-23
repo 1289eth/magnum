@@ -1,3 +1,4 @@
+{
   "name": "magnum",
   "version": "1.0.0",
   "private": true,
@@ -8,7 +9,7 @@
     "react-router-dom": "^5.2.0",
     "react-helmet": "^6.1.0",
     "prop-types": "15.7.2"
-  
+  }
     "scripts": {
     "start": "craco start",
     "build": "craco build",
